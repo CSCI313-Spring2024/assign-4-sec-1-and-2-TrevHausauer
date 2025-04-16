@@ -1,12 +1,14 @@
-export let CONTACTS : any = [
+import { Contact } from "../models/contact";
+
+export let CONTACTS : Contact[] = [
     {
     fName : 'John',
     lName : 'Adams',
-    phoneNumber: '701-000-1000'
+    phoneNum: '701-000-1000'
     },
     {
     fName : 'Mary',
     lName : 'Jane',
-    phoneNumber: '701-000-1000',
+    phoneNum: '701-000-1000',
     }
 ]

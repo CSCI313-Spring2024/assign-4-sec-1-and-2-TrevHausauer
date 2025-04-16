@@ -1,0 +1,21 @@
+.contacts{
+    margin: 50px auto;
+    border-style: solid;
+    border-radius: 100px;
+}
+
+.contact-card{
+    margin: 50px;
+    border-radius: 20px;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+button{
+    margin: 10px;
+}
+
+.buttons{
+    float:right;
+    margin-right: 30px;
+}

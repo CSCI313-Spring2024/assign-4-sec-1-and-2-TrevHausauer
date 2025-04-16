@@ -1,0 +1,18 @@
+.add-contact{
+    border-style: solid;
+}
+
+.edit-contact-card{
+    margin: 30px;
+    padding: 20px 0;
+    font-size: 25px;
+}
+
+.button{
+    margin: 10px;
+}
+
+.buttons{
+    float: right;
+    margin-right: 30px;
+}
